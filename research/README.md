@@ -1,0 +1,3 @@
+- 용도: 10/27~29 리서치 노트 (여행 수요·대구 관광 데이터·치킨 자산·정책·국내외 벤치마킹·검증), 모든 노트에 출처 URL 포함
+- 파일 예시: travel_demand_trend.md, daegu_tourism_visitor_stats.md, benchmark_global_osaka.md
+- 파일명 규칙: 영문 소문자·밑줄(_)만 사용, 날짜_주제_작성자.확장자 (예: 1027_travel_demand_trend_kim.md)
